@@ -1,9 +1,14 @@
-
 public class Main {
 
 	public static void main(String[] args) {
-	 System.out.println("Hello world");
-
+	
+		Animalcompagnie chameau = new Animalcompagnie("mozart",15);
+		Animal panda = new Animal("momo","papa");
+	
+	
+	
 	}
+	
 
+	
 }
